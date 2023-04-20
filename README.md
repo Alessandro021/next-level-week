@@ -45,3 +45,4 @@ Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiv
 ## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+
