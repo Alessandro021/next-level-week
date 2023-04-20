@@ -17,9 +17,8 @@ As seguintes tecnologias foram utilizadas neste projeto:
 
 ## Funcionalidades
 
-- Os usuários podem encontrar pontos de coleta de resíduos em uma determinada cidade
-- Os pontos de coleta são exibidos em um mapa interativo
-- Os usuários podem entrar em contato com o ponto de coleta por meio de e-mail ou WhatsApp
+- Os usuários podem encontrar pontos de coleta de resíduos em uma determinada cidade.
+- Cadastrar ponto de coleta.
 
 ## Como executar
 
@@ -31,13 +30,13 @@ As seguintes tecnologias foram utilizadas neste projeto:
 ## Capturas de tela
 
 ### Página inicial
-![Home Page](/path/to/home-page.png)
+![Home Page](https://live.staticflickr.com/65535/52832314311_0e8724c8cc.jpg)
 
 ### Página de busca
-![Search Page](/path/to/search-page.png)
+![Search Page](https://live.staticflickr.com/65535/52832416276_e1de980b94.jpg)
 
 ### Página de detalhes do ponto de coleta
-![Details Page](/path/to/details-page.png)
+![Details Page](https://live.staticflickr.com/65535/52832823935_134f2882e9.jpg)
 
 ## Contribuições
 
