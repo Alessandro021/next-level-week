@@ -1,6 +1,8 @@
 # Ecoleta
 
-![Ecoleta Banner](https://live.staticflickr.com/65535/52832314311_0e8724c8cc.jpg)
+<h1 align="center">
+    <img alt="Ecoleta" title="Ecoleta" src="https://live.staticflickr.com/65535/52832314311_0e8724c8cc.jpg" width="720px" />
+</h1>
 
 Este projeto foi desenvolvido durante o Next Level Week da Rocketseat. Ele é um site desenvolvido em ReactJS que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
